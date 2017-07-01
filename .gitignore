@@ -1,0 +1,12 @@
+# npm debugger history
+npm-degug.log*
+
+# projecet dependecy
+node_modules
+
+# macOS floder property
+.DS_Store
+
+# tempory file
+*.tmp
+*~
